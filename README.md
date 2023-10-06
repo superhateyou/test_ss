@@ -58,4 +58,4 @@ model:
 ]
 }`
 
-![Example](example.png)
+![Example](example.jpg)
